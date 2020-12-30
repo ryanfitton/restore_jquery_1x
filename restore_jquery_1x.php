@@ -1,7 +1,7 @@
 <?php
 	/* 
 		Plugin Name: Restore jQuery v1.x for WP
-		Plugin URI: https://github.com/ryanfitton/restore-jquery-v1x-for-wp
+		Plugin URI: https://github.com/ryanfitton/restore_jquery_1x
 		Description: Since WP 5.5. jQuery migrate is no longer enabled by default. And in WP 5.6 jQuery has been upgraded from v1.12.4 to v3.x. This plugin disables the default WP jQuery library and re-enables jQuery v1.12.4.
 		Requires at least: 5.5
 		Tested up to: 5.6
